@@ -115,7 +115,7 @@
     </li>
     <li>
       <key>GrowingFood</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>EquippingWeapons</key>
@@ -127,7 +127,7 @@
     </li>
     <li>
       <key>Mining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>WorkTab</key>
@@ -135,7 +135,7 @@
     </li>
     <li>
       <key>ForbiddingDoors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CoverAndShooting</key>
@@ -151,7 +151,7 @@
     </li>
     <li>
       <key>AnimalTraining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>InfoCard</key>
@@ -183,7 +183,7 @@
     </li>
     <li>
       <key>MedicalOperations</key>
-      <value>0.5171062</value>
+      <value>0.190703</value>
     </li>
     <li>
       <key>TimeAssignments</key>

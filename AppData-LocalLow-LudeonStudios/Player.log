@@ -10,39 +10,40 @@ Direct3D:
     VRAM:     8119 MB
     Driver:   30.0.100.9865
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.183 seconds
+- Completed reload, in  0.153 seconds
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.388900 ms
-Command line arguments: -savedatafolder=C:\Users\dmytr\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+UnloadTime: 1.426600 ms
+Curl error 6: Could not resolve host: rimworldgame.com
+ 
+(Filename:  Line: 853)
 
 RimWorld 1.5.4297 rev994 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Save data folder overridden to C:\Users\dmytr\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios 
+Unable to get latest version information from rimworldgame.com. (Cannot resolve destination host) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182208435C0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182209640A0.dll
-Prepatcher: Starting... (vanilla load took 6.592141s) 
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967749A010.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967AF4E0D0.dll
+Prepatcher: Starting... (vanilla load took 4.001204s) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Performance Fish!!! 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Performance Fish finished applying prepatches in 10.8738655 seconds 
+Performance Fish finished applying prepatches in 4.2147982 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Prepatcher: Game processing took 12142.8362ms 
+Prepatcher: Game processing took 4682.8218ms 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Prepatcher: Serializing patched assemblies 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Prepatcher: Serializing took 6432.9927ms 
+Prepatcher: Serializing took 2383.2743ms 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Prepatcher: Setting refonly 
@@ -51,74 +52,75 @@ Prepatcher: Setting refonly
 Prepatcher: Loading patched assemblies 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018246845040.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182474F8040.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001822250E020.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001822251CC30.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001822128D040.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001822252A840.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001822257A850.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222615670.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018220C6C080.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000181FAF11BF0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222647C80.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182226D5010.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018221EC2030.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182227CD420.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182227DB430.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222803240.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018220E3E030.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001822140D040.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018220C7E030.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222810450.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222814C60.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001822282B070.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222834080.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222869090.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182228A16C0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182228CA2D0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182228EE6E0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182228F5CF0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182228FAD00.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222900F10.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222905120.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001822292D530.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000181FB927180.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018220E42240.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222964B40.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001822297C350.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018220FED020.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018220C82C40.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018220C84250.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182229A3760.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182229B3170.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001824772D040.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182229BCF80.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182229BFB90.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182229D61A0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182229DCDB0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182229FD5C0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000181D9507B20.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222A25FD0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222A6A5E0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222A6B7F0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222A8D400.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222A9C010.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018222AA1C20.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001969539D040.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001969605C040.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C489030.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C497C40.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C396020.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C4A5850.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C4F5860.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C588670.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967B7D9030.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000019655426030.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C5BAC80.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C636090.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C72E4A0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C7342B0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C7422C0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C7720E0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C77F2F0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967B2F5A40.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967B68BE30.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C400020.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C783500.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C799910.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C7A2920.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C7D7930.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C7EFF40.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C81CB60.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C840F70.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967B9A8860.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967B7DAC40.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C85A010.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C85E220.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C886630.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000196774CFE90.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C8CDC50.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C8D1860.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C8F9080.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967B7E0A50.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967B9AD870.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967BF8D710.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C920490.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C92FEA0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000019696284040.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C404830.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C939CB0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C9522D0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C958EE0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C9796F0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000196551C3A60.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C9A2100.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967AD5F050.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C9E6710.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967CA08320.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967CA16F30.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967CA1CB40.dll
 Prepatcher: Done loading 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Command line arguments: -savedatafolder=C:\Users\dmytr\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+Curl error 6: Could not resolve host: rimworldgame.com
+ 
+(Filename:  Line: 853)
 
 RimWorld 1.5.4297 rev994 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Save data folder overridden to C:\Users\dmytr\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios 
+Unable to get latest version information from rimworldgame.com. (Cannot resolve destination host) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000182486A2540.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018249E5B8A0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001967C0E1040.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000196997A2150.dll
 Prepatcher: Restarted with the patched assembly, going silent. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -137,15 +139,15 @@ QualityBuilder successfully patched Replace Stuff
 3.0.9046 :: 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018250D6E020.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018250FA3EE0.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018250D86A60.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018250D93A70.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000018250D9B280.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001969FC20090.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001969FC38AD0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001969FC43AE0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000001969FC50AF0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000196A00FA030.dll
 GAGARIN: <color=green>StartUpStarted called!</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=green>Cache not found or got purged!</color> 
+GAGARIN: <color=green>Cache found</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev994 
@@ -160,31 +162,50 @@ b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev994
 b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev994 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>1.616</color> seconds 
+GAGARIN: <color=yello>Cache disabled from</color>
+Gagarin.LoadedModManager_Patch+LoadModXML_Patch:Postfix():0
+MonoMod.Utils.DynamicMethodDefinition:Verse.LoadedModManager.LoadModXML_Patch4():0
+Verse.LoadedModManager:LoadAllActiveMods():0
+Verse.PlayDataLoader:DoPlayLoad():0
+Verse.PlayDataLoader:LoadAllPlayData():0
+Verse.Root+<>c:<Start>b__6_1():0
+Verse.LongEventHandler:RunEventFromAnotherThread():0
+Verse.LongEventHandler+<>c:<UpdateCurrentAsynchronousEvent>b__28_0():0
+System.Threading.ThreadHelper:ThreadStart_Context():0
+System.Threading.ExecutionContext:RunInternal():0
+System.Threading.ExecutionContext:Run():0
+System.Threading.ExecutionContext:Run():0
+System.Threading.ThreadHelper:ThreadStart():0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: Total number of files changed. Reseting cache 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>2.381</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=False</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>1.241</color> seconds 
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>0.841</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.002</color> seconds 
+GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.003</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>2.171</color> seconds 
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>1.533</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.642</color> seconds 
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.293</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev994 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>1 seconds</color> 
+GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>0 seconds</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>44.526</color> seconds 
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>18.798</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0</color> seconds 
@@ -194,35 +215,35 @@ Power Tweaks Skipped Defs:
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-d3d11: failed to create 2D texture id=1869 width=128 height=511 mips=10 dxgifmt=28 [D3D error was 80070057]
+d3d11: failed to create 2D texture id=1871 width=128 height=511 mips=10 dxgifmt=28 [D3D error was 80070057]
  
 (Filename:  Line: 587)
 
-d3d11: failed to create 2D texture shader resource view id=1869 [D3D error was 80070057]
+d3d11: failed to create 2D texture shader resource view id=1871 [D3D error was 80070057]
  
 (Filename:  Line: 537)
 
-d3d11: failed to create 2D texture id=1889 width=511 height=128 mips=10 dxgifmt=28 [D3D error was 80070057]
+d3d11: failed to create 2D texture id=1891 width=511 height=128 mips=10 dxgifmt=28 [D3D error was 80070057]
  
 (Filename:  Line: 587)
 
-d3d11: failed to create 2D texture shader resource view id=1889 [D3D error was 80070057]
+d3d11: failed to create 2D texture shader resource view id=1891 [D3D error was 80070057]
  
 (Filename:  Line: 537)
 
-d3d11: failed to create 2D texture id=1983 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
+d3d11: failed to create 2D texture id=1985 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
  
 (Filename:  Line: 587)
 
-d3d11: failed to create 2D texture shader resource view id=1983 [D3D error was 80070057]
+d3d11: failed to create 2D texture shader resource view id=1985 [D3D error was 80070057]
  
 (Filename:  Line: 537)
 
-d3d11: failed to create 2D texture id=1987 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
+d3d11: failed to create 2D texture id=1989 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
  
 (Filename:  Line: 587)
 
-d3d11: failed to create 2D texture shader resource view id=1987 [D3D error was 80070057]
+d3d11: failed to create 2D texture shader resource view id=1989 [D3D error was 80070057]
  
 (Filename:  Line: 537)
 
@@ -230,10 +251,10 @@ Mod RimPy Mod Manager Database did not load any content. Following load folders 
   - C:\Games\RimWorld\Mods\1847679158 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.642</color> seconds 
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.293</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.643</color> seconds 
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.293</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Translation data for language Russian / Русский has 30 errors. Generate translation report for more info. 
@@ -269,17 +290,21 @@ Mines 2.0 -> RecipeDef named MinesAutomated_RecipeDef_MineableJade added to the 
 Mines 2.0 -> RecipeDef named MinesAutomated_RecipeDef_MineableComponentsIndustrial added to the mine. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-[RealRuins][System]: RealRuins started patching at 1/16/2025 3:27:56 PM 
+[RealRuins][System]: RealRuins started patching at 1/18/2025 12:20:56 AM 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-[RealRuins][System]: RealRuins performing manual patching optional mods at 1/16/2025 3:27:56 PM 
+[RealRuins][System]: RealRuins performing manual patching optional mods at 1/18/2025 12:20:56 AM 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 [RealRuins][System]: SRTS not found, skipping... 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-[RealRuins][System]: RealRuins finished patching at 1/16/2025 3:27:56 PM (129.6544 msec) 
+[RealRuins][System]: RealRuins finished patching at 1/18/2025 12:20:56 AM (73.5007 msec) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
 
 LWM Update: stable(ish) 1.5.0.4 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
@@ -324,10 +349,6 @@ bodysizes genes are active
 
 CharacterEditor v1.5.10 ...done 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Curl error 42: Callback aborted
- 
-(Filename:  Line: 853)
 
 [AllowTool] Applied compatibility patch for "Pick Up And Haul" 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
@@ -374,26 +395,236 @@ no modifications for lifestages
 ...done 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
 Unloading 5 Unused Serialized files (Serialized files now loaded: 4)
 
-Unloading 92 unused Assets to reduce memory usage. Loaded Objects now: 24960.
-Total: 542.410800 ms (FindLiveObjects: 3.272500 ms CreateObjectMapping: 2.600600 ms MarkObjects: 535.930700 ms  DeleteObjects: 0.605300 ms)
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 26221.
+Total: 605.621900 ms (FindLiveObjects: 4.074200 ms CreateObjectMapping: 4.653300 ms MarkObjects: 596.477400 ms  DeleteObjects: 0.416300 ms)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+[RealRuins][Loader]: Could not load maps list. Try not to alt-tab while waiting for maps loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 277 unused Assets to reduce memory usage. Loaded Objects now: 26795.
+Total: 610.844900 ms (FindLiveObjects: 1.521200 ms CreateObjectMapping: 2.629000 ms MarkObjects: 605.624100 ms  DeleteObjects: 1.069700 ms)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+[RealRuins][Loader]: Could not load maps list. Try not to alt-tab while waiting for maps loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
-UnloadTime: 0.938800 ms
+UnloadTime: 1.184400 ms
+Curl error 6: Could not resolve host: rimworldgame.com
+ 
+(Filename:  Line: 853)
+
 FileNotFoundException: Cannot resolve dependency to assembly because it has not been preloaded. When using the ReflectionOnly APIs, dependent assemblies must be pre-loaded or loaded on demand through the ReflectionOnlyAssemblyResolve event.
 
  
 (Filename:  Line: -1)
 
+Curl error 6: Could not resolve host: rimworldgame.com
+ 
+(Filename:  Line: 853)
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 24993.
-Total: 530.085100 ms (FindLiveObjects: 1.421800 ms CreateObjectMapping: 2.585300 ms MarkObjects: 525.850200 ms  DeleteObjects: 0.227200 ms)
+Unable to get latest version information from rimworldgame.com. (Cannot resolve destination host) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 27108.
+Total: 613.238300 ms (FindLiveObjects: 2.908900 ms CreateObjectMapping: 2.569000 ms MarkObjects: 607.632700 ms  DeleteObjects: 0.127200 ms)
 
 QualityBuilder added property to '170' things 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Loading game from file Исследовательская экспедиция3 with mods:
+Initializing new game with mods:
   - zetrith.prepatcher
   - brrainz.harmony
   - bs.fishery
@@ -436,60 +667,9 @@ Loading game from file Исследовательская экспедиция3 
   - Krkr.RocketMan 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve reference to object with loadID Lord_1 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (120, 0, 121) but RegionAndRoomUpdater is disabled. The result may be incorrect.
-This commonly happens when incorrectly accessing a region within a method that itself gets accessed by the RegionAndRoomUpdater when computing the region grid. The updater gets disabled to avoid a stack overflow.
-  at MonoMod.Utils.DynamicMethodDefinition.Verse.RegionAndRoomQuery.RoomAt_Patch0 (Verse.IntVec3 , Verse.Map , Verse.RegionType ) [0x00000] in <abec11463bc04855a5322a0a868aeb22>:0 
-  at Verse.GridsUtility.GetRoom (Verse.IntVec3 loc, Verse.Map map) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.GenPlace.PlaceSpotQualityAt (Verse.IntVec3 c, Verse.Rot4 rot, Verse.Map map, Verse.Thing thing, Verse.IntVec3 center, System.Boolean allowStacking, System.Predicate`1[T] extraValidator) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.GenPlace.TryFindPlaceSpotNear (Verse.IntVec3 center, Verse.Rot4 rot, Verse.Map map, Verse.Thing thing, System.Boolean allowStacking, Verse.IntVec3& bestSpot, System.Predicate`1[T] extraValidator) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.GenPlace.TryPlaceThing (Verse.Thing thing, Verse.IntVec3 center, Verse.Map map, Verse.ThingPlaceMode mode, Verse.Thing& lastResultingThing, System.Action`2[T1,T2] placedAction, System.Predicate`1[T] nearPlaceValidator, Verse.Rot4 rot) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.GenDrop.TryDropSpawn (Verse.Thing thing, Verse.IntVec3 dropCell, Verse.Map map, Verse.ThingPlaceMode mode, Verse.Thing& resultingThing, System.Action`2[T1,T2] placedAction, System.Predicate`1[T] nearPlaceValidator, System.Boolean playDropSound) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.ThingOwner.TryDrop (Verse.Thing thing, Verse.IntVec3 dropLoc, Verse.Map map, Verse.ThingPlaceMode mode, Verse.Thing& lastResultingThing, System.Action`2[T1,T2] placedAction, System.Predicate`1[T] nearPlaceValidator, System.Boolean playDropSound) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.ThingOwner`1[T].TryDrop (Verse.Thing thing, Verse.IntVec3 dropLoc, Verse.Map map, Verse.ThingPlaceMode mode, T& lastResultingThing, System.Action`2[T1,T2] placedAction, System.Predicate`1[T] nearPlaceValidator) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at RimWorld.GenLeaving.DoLeavingsFor (Verse.Thing diedThing, Verse.Map map, Verse.DestroyMode mode, Verse.CellRect leavingsRect, System.Predicate`1[T] nearPlaceValidator, System.Collections.Generic.List`1[T] listOfLeavingsOut) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at MonoMod.Utils.DynamicMethodDefinition.Verse.GenSpawn.Refund_NewTemp_Patch1 (Verse.Thing , Verse.Map , Verse.CellRect , System.Boolean , System.Boolean ) [0x00000] in <abec11463bc04855a5322a0a868aeb22>:0 
-  at Verse.GenSpawn.SpawnBuildingAsPossible (Verse.Building building, Verse.Map map, System.Boolean respawningAfterLoad) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.Map.FinalizeLoading () [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at MonoMod.Utils.DynamicMethodDefinition.Verse.Game.LoadGame_Patch5 (Verse.Game ) [0x00000] in <abec11463bc04855a5322a0a868aeb22>:0 
-  at MonoMod.Utils.DynamicMethodDefinition.Verse.SavedGameLoaderNow.LoadGameFromSaveFileNow_Patch1 (System.String ) [0x00000] in <abec11463bc04855a5322a0a868aeb22>:0 
-  at Verse.Root_Play+<>c.<Start>b__1_1 () [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.LongEventHandler.RunEventFromAnotherThread (System.Action action) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.LongEventHandler+<>c.<UpdateCurrentAsynchronousEvent>b__28_0 () [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Threading.ThreadHelper.ThreadStart () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (120, 0, 121) but RegionAndRoomUpdater is disabled. The result may be incorrect.
-This commonly happens when incorrectly accessing a region within a method that itself gets accessed by the RegionAndRoomUpdater when computing the region grid. The updater gets disabled to avoid a stack overflow.
-  at MonoMod.Utils.DynamicMethodDefinition.Verse.RegionAndRoomQuery.RoomAt_Patch0 (Verse.IntVec3 , Verse.Map , Verse.RegionType ) [0x00000] in <abec11463bc04855a5322a0a868aeb22>:0 
-  at Verse.GridsUtility.GetRoom (Verse.IntVec3 loc, Verse.Map map) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.GenPlace.PlaceSpotQualityAt (Verse.IntVec3 c, Verse.Rot4 rot, Verse.Map map, Verse.Thing thing, Verse.IntVec3 center, System.Boolean allowStacking, System.Predicate`1[T] extraValidator) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.GenPlace.TryFindPlaceSpotNear (Verse.IntVec3 center, Verse.Rot4 rot, Verse.Map map, Verse.Thing thing, System.Boolean allowStacking, Verse.IntVec3& bestSpot, System.Predicate`1[T] extraValidator) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.GenPlace.TryPlaceThing (Verse.Thing thing, Verse.IntVec3 center, Verse.Map map, Verse.ThingPlaceMode mode, Verse.Thing& lastResultingThing, System.Action`2[T1,T2] placedAction, System.Predicate`1[T] nearPlaceValidator, Verse.Rot4 rot) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.GenDrop.TryDropSpawn (Verse.Thing thing, Verse.IntVec3 dropCell, Verse.Map map, Verse.ThingPlaceMode mode, Verse.Thing& resultingThing, System.Action`2[T1,T2] placedAction, System.Predicate`1[T] nearPlaceValidator, System.Boolean playDropSound) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.ThingOwner.TryDrop (Verse.Thing thing, Verse.IntVec3 dropLoc, Verse.Map map, Verse.ThingPlaceMode mode, Verse.Thing& lastResultingThing, System.Action`2[T1,T2] placedAction, System.Predicate`1[T] nearPlaceValidator, System.Boolean playDropSound) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.ThingOwner`1[T].TryDrop (Verse.Thing thing, Verse.IntVec3 dropLoc, Verse.Map map, Verse.ThingPlaceMode mode, T& lastResultingThing, System.Action`2[T1,T2] placedAction, System.Predicate`1[T] nearPlaceValidator) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at RimWorld.GenLeaving.DoLeavingsFor (Verse.Thing diedThing, Verse.Map map, Verse.DestroyMode mode, Verse.CellRect leavingsRect, System.Predicate`1[T] nearPlaceValidator, System.Collections.Generic.List`1[T] listOfLeavingsOut) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at MonoMod.Utils.DynamicMethodDefinition.Verse.GenSpawn.Refund_NewTemp_Patch1 (Verse.Thing , Verse.Map , Verse.CellRect , System.Boolean , System.Boolean ) [0x00000] in <abec11463bc04855a5322a0a868aeb22>:0 
-  at Verse.GenSpawn.SpawnBuildingAsPossible (Verse.Building building, Verse.Map map, System.Boolean respawningAfterLoad) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.Map.FinalizeLoading () [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at MonoMod.Utils.DynamicMethodDefinition.Verse.Game.LoadGame_Patch5 (Verse.Game ) [0x00000] in <abec11463bc04855a5322a0a868aeb22>:0 
-  at MonoMod.Utils.DynamicMethodDefinition.Verse.SavedGameLoaderNow.LoadGameFromSaveFileNow_Patch1 (System.String ) [0x00000] in <abec11463bc04855a5322a0a868aeb22>:0 
-  at Verse.Root_Play+<>c.<Start>b__1_1 () [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.LongEventHandler.RunEventFromAnotherThread (System.Action action) [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at Verse.LongEventHandler+<>c.<UpdateCurrentAsynchronousEvent>b__28_0 () [0x00000] in <d4283d69f1dd45829ad7cf101e8491d9>:0 
-  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Threading.ThreadHelper.ThreadStart () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
 
 checking editor settings... 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
@@ -502,18 +682,363 @@ QualityBuilder added to приказы category.
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 30835.
-Total: 674.268800 ms (FindLiveObjects: 3.127800 ms CreateObjectMapping: 3.809500 ms MarkObjects: 667.044500 ms  DeleteObjects: 0.285900 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 33067.
+Total: 797.319300 ms (FindLiveObjects: 3.251400 ms CreateObjectMapping: 3.955900 ms MarkObjects: 789.975400 ms  DeleteObjects: 0.136100 ms)
 
-Home area bounds: (101, 108) - (140, 142) 
+Павшая Империя are coming after 11.86995 days. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Origin: 101, 108 
+Ось Васберон are coming after 34.47732 days. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Start capturing in area of: (101,108)-(139,141) 
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev994 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev994 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev994 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_20280) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_20347) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_20426) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_20501) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_20577) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_20968) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21027) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21110) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21178) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21251) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21325) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21394) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21453) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Curl error 6: Could not resolve host: woolstrand.art
+ 
+(Filename:  Line: 853)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21534) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21610) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Curl error limit reached: 100 consecutive messages printed
+ 
+(Filename:  Line: 831)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21670) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21741) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21807) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21875) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_21948) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22011) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22088) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22149) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22224) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22305) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22372) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22449) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22526) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22585) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22656) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22733) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22794) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22866) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_22944) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23019) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23090) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23169) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23248) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23320) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23386) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23457) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23528) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23605) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23686) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23770) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23839) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gleb started 10 jobs in one tick. newJob=Ingest (Job_23904) A = Thing_Meat_Twisted39135 jobGiver=RimWorld.JobGiver_GetFood jobList= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created 2 new pawns for Sacrileg Hunters. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created 2 new pawns for Sacrileg Hunters. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 7a8 -> priority: 1 
-  Thread -> id: 1870 -> priority: 1 
+  Thread -> id: 2b94 -> priority: 1 
+  Thread -> id: 2790 -> priority: 1 
