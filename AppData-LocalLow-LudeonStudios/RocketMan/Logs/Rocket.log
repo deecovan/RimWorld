@@ -140,24 +140,9 @@ Gagarin:[NOTANERROR] patching LoadedModManager:Void ClearCachedPatches() finishe
 
 Gagarin:[NOTANERROR] patching XmlInheritance:Void Resolve() finished!
 
-GAGARIN: <color=yello>Cache disabled from</color>
-Gagarin.LoadedModManager_Patch+LoadModXML_Patch:Postfix():0
-MonoMod.Utils.DynamicMethodDefinition:Verse.LoadedModManager.LoadModXML_Patch4():0
-Verse.LoadedModManager:LoadAllActiveMods():0
-Verse.PlayDataLoader:DoPlayLoad():0
-Verse.PlayDataLoader:LoadAllPlayData():0
-Verse.Root+<>c:<Start>b__6_1():0
-Verse.LongEventHandler:RunEventFromAnotherThread():0
-Verse.LongEventHandler+<>c:<UpdateCurrentAsynchronousEvent>b__28_0():0
-System.Threading.ThreadHelper:ThreadStart_Context():0
-System.Threading.ExecutionContext:RunInternal():0
-System.Threading.ExecutionContext:Run():0
-System.Threading.ExecutionContext:Run():0
-System.Threading.ThreadHelper:ThreadStart():0
-
 GAGARIN:[DUPLICATE]: Started!
 
-GAGARIN:[DUPLICATE] Creating duplication reports took 498 MS
+GAGARIN:[DUPLICATE] Creating duplication reports took 511 MS
 
 GAGARIN:[<color=yellow>DUPLICATE:CRITICAL</color>]<color=white> duplicate found for Name=UpdateFeatureBase</color>
 	1. PackageId=unlimitedhugs.defensivepositions	| ModName=Defensive Positions	| XmlFilePath=C:\Games\RimWorld\Mods\761219125\Defs\UpdateFeatureDefs\UpdateFeatures.xml
@@ -754,7 +739,7 @@ ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
 
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
 
-[0.001932 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+[0.002081 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
 ROCKETRULES: IgnoreMe add def by name: Corpse_Bear_Grizzly
 ROCKETRULES: IgnoreMe add def by name: Corpse_Bear_Polar
 ROCKETRULES: IgnoreMe add def by name: Corpse_Ostrich
@@ -948,6 +933,10 @@ GAGARIN: Lock removed!
 
 ROCKETMAN: <color=red>Warm up</color> started for new map!
 
+ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
+
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+
 SOYUZ: Preset loaded!
 
 Created ticker bucket: BaseInterval=250 BucketInterval=125
@@ -964,86 +953,22 @@ ROCKETMAN: <color=red>Warm up</color> Finished for new map!
 
 ROCKETMAN: Position verfication started!
 
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Gagarin:YieldTab
+ROCKETMAN: <color=red>Warm up</color> started for new map!
 
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Alerts:YieldTab
+ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
 
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_DilationSettings:YieldTab
+ROCKETMAN: <color=red>Warm up</color> started for new map!
 
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Grapher:YieldTab
+SOYUZ: Preset loaded!
 
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_WorldPawns:YieldTab
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
 
-ROCKETMAN: Found a new tab Load time optimization
+ROCKETMAN: Position verfication started!
 
-ROCKETMAN: Found a new tab Настройки уведомлений
+ROCKETMAN: <color=red>Warm up</color> started for new map!
 
-ROCKETMAN: Found a new tab Настройки замедления времени
+SOYUZ: Preset loaded!
 
-ROCKETMAN: Found a new tab Grapher
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
 
-ROCKETMAN: Found a new tab World Pawns
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Gagarin:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Alerts:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_DilationSettings:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Grapher:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_WorldPawns:YieldTab
-
-ROCKETMAN: Found a new tab Load time optimization
-
-ROCKETMAN: Found a new tab Настройки уведомлений
-
-ROCKETMAN: Found a new tab Настройки замедления времени
-
-ROCKETMAN: Found a new tab Grapher
-
-ROCKETMAN: Found a new tab World Pawns
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Gagarin:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Alerts:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_DilationSettings:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Grapher:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_WorldPawns:YieldTab
-
-ROCKETMAN: Found a new tab Load time optimization
-
-ROCKETMAN: Found a new tab Настройки уведомлений
-
-ROCKETMAN: Found a new tab Настройки замедления времени
-
-ROCKETMAN: Found a new tab Grapher
-
-ROCKETMAN: Found a new tab World Pawns
-
-ROCKETMAN: <color=red>MainButton</color> is now hidden!
-
-ROCKETMAN: <color=red>MainButton</color> is now shown!
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Gagarin:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Alerts:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_DilationSettings:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Grapher:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_WorldPawns:YieldTab
-
-ROCKETMAN: Found a new tab Load time optimization
-
-ROCKETMAN: Found a new tab Настройки уведомлений
-
-ROCKETMAN: Found a new tab Настройки замедления времени
-
-ROCKETMAN: Found a new tab Grapher
-
-ROCKETMAN: Found a new tab World Pawns
+ROCKETMAN: Position verfication started!

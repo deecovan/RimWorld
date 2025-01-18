@@ -11,11 +11,11 @@
     </li>
     <li>
       <key>Rescuing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Capturing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ShieldBelts</key>
@@ -23,7 +23,7 @@
     </li>
     <li>
       <key>InteractingWithTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Drafting</key>
@@ -71,7 +71,7 @@
     </li>
     <li>
       <key>DrugBurning</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DoorOpenSpeed</key>
@@ -139,7 +139,7 @@
     </li>
     <li>
       <key>CoverAndShooting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FormCaravan</key>
@@ -147,7 +147,7 @@
     </li>
     <li>
       <key>AnimalTaming</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTraining</key>
@@ -163,11 +163,11 @@
     </li>
     <li>
       <key>HomeArea</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Deterioration</key>
@@ -183,7 +183,7 @@
     </li>
     <li>
       <key>MedicalOperations</key>
-      <value>0.190703</value>
+      <value>0</value>
     </li>
     <li>
       <key>TimeAssignments</key>
@@ -215,7 +215,7 @@
     </li>
     <li>
       <key>ClickingMessages</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ShotAccuracyTooltip</key>
@@ -287,7 +287,7 @@
     </li>
     <li>
       <key>GenesAndXenotypes</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Mechanitors</key>
@@ -351,7 +351,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedMelee</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedDrafted</key>
@@ -367,7 +367,7 @@
     </li>
     <li>
       <key>BuildersTryMine</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GuestBeds</key>
@@ -375,11 +375,11 @@
     </li>
     <li>
       <key>RecruitGuest</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GuestWork</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Hospitality</key>
