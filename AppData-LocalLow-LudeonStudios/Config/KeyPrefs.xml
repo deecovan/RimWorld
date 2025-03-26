@@ -505,34 +505,6 @@
     </value>
   </li>
   <li>
-    <key>RocketKeyBindingDisable</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>RocketKeyToggleAlerts</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>RocketKeyToggleDebugging</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>RocketKeyToggleForcedSlowdowns</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>PerformanceOptimizerKey</key>
     <value>
       <keyBindingA>LeftControl</keyBindingA>
@@ -772,6 +744,34 @@
   </li>
   <li>
     <key>HotkeyTeleport</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RocketKeyBindingDisable</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RocketKeyToggleAlerts</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RocketKeyToggleDebugging</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RocketKeyToggleForcedSlowdowns</key>
     <value>
       <keyBindingA>None</keyBindingA>
       <keyBindingB>None</keyBindingB>

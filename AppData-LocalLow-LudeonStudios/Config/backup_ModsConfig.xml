@@ -2,46 +2,43 @@
 <ModsConfigData>
     <version>1.5.4297 rev993</version>
     <activeMods>
-        <li>zetrith.prepatcher</li>
         <li>brrainz.harmony</li>
         <li>bs.fishery</li>
         <li>ludeon.rimworld</li>
-        <li>bs.performance</li>
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
         <li>ludeon.rimworld.anomaly</li>
-        <li>mlie.morefactioninteraction</li>
-        <li>ogliss.g223.wanderingcaravans</li>
+        <li>unlimitedhugs.hugslib</li>
+        <li>aoba.tent</li>
+        <li>iforgotmysocks.caravanadventures</li>
+        <li>void.charactereditor</li>
+        <li>unlimitedhugs.defensivepositions</li>
+        <li>dubwise.dubsmintmenus</li>
+        <li>dubwise.dubsmintminimap</li>
+        <li>taveron.increasedstack</li>
+        <li>cain.mineshaft</li>
+        <li>scorpio.optimizationleathers</li>
+        <li>seohyeon.optimizationmeats</li>
+        <li>taranchuk.performanceoptimizer</li>
+        <li>hatti.qualitybuilder</li>
+        <li>woolstrand.realruins</li>
+        <li>uuugggg.replacestuff</li>
+        <li>rupal.rimpymodmanagerdatabase</li>
+        <li>petetimessix.simplesidearms</li>
+        <li>mlie.singleplanttexturepatch</li>
+        <li>gt.sam.tilledsoil</li>
+        <li>neronix17.tweaksgalore</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
         <li>vanillaexpanded.skills</li>
-        <li>neronix17.tweaksgalore</li>
-        <li>gt.sam.tilledsoil</li>
-        <li>weilbyte.snapout</li>
-        <li>mlie.singleplanttexturepatch</li>
-        <li>unlimitedhugs.hugslib</li>
-        <li>petetimessix.simplesidearms</li>
-        <li>krkr.rocketman</li>
-        <li>rupal.rimpymodmanagerdatabase</li>
-        <li>uuugggg.replacestuff</li>
-        <li>woolstrand.realruins</li>
-        <li>hatti.qualitybuilder</li>
-        <li>mehni.pickupandhaul</li>
-        <li>taranchuk.performanceoptimizer</li>
-        <li>seohyeon.optimizationmeats</li>
-        <li>scorpio.optimizationleathers</li>
-        <li>cain.mineshaft</li>
-        <li>lwm.deepstorage</li>
-        <li>taveron.increasedstack</li>
-        <li>orion.hospitality</li>
-        <li>dubwise.dubsmintminimap</li>
-        <li>dubwise.dubsmintmenus</li>
-        <li>unlimitedhugs.defensivepositions</li>
-        <li>void.charactereditor</li>
-        <li>aoba.tent</li>
+        <li>ogliss.g223.wanderingcaravans</li>
         <li>unlimitedhugs.allowtool</li>
+        <li>mlie.morefactioninteraction</li>
+        <li>orion.hospitality</li>
+        <li>lwm.deepstorage</li>
+        <li>mehni.pickupandhaul</li>
+        <li>weilbyte.snapout</li>
         <li>frozensnowfox.complexjobs</li>
-        <li>iforgotmysocks.caravanadventures</li>
     </activeMods>
     <knownExpansions>
         <li>ludeon.rimworld</li>
