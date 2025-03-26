@@ -10,15 +10,105 @@ Direct3D:
     VRAM:     8119 MB
     Driver:   30.0.101.1340
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.133 seconds
+- Completed reload, in  0.137 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.385600 ms
+UnloadTime: 1.549800 ms
 RimWorld 1.5.4409 rev1068
-Translation data for language Russian / Русский has 11 errors. Generate translation report for more info. 
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000717C2010.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000071EDA1D0.dll
+[HugsLib] version 11.0.5
+[HugsLib] early-initializing AllowTool
+DubsMintMenus v1.3.1086
+QualityBuilder successfully patched Replace Stuff
+3.0.9196 ::
+Power Tweaks Skipped Defs:
+Кабель (PowerConduit) due to zero power setting.
+Скрытый кабель (HiddenConduit) due to zero power setting.
+Подводный кабель (WaterproofConduit) due to zero power setting.
+Выключатель (PowerSwitch) due to zero power setting.
+Аккумулятор (Battery) due to zero power setting.
+Корабельная балка (Ship_Beam) due to zero power setting.
+Вакуумный саркофаг криптосна (Ship_CryptosleepCasket) due to zero power setting.
+Корабельный компьютер (Ship_ComputerCore) due to zero power setting.
+Корабельный двигатель (Ship_Engine) due to zero power setting.
+Сенсорный кластер (Ship_SensorCluster) due to zero power setting.
+Power conduit (KCSG_PowerConduit) due to zero power setting.
+
+Mod RimPy Mod Manager Database did not load any content. Following load folders were used:
+  - C:\Games\RimWorld\Mods\1847679158 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Translation data for language Russian / Русский has 30 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Caravan Adventures: Applying patch to remove realruins from CA story shrine maps
+Patching VFE from bringing up the faction dialog for no longer needed faction
+Following error happend while trying to patch VFECore for compatibility with CA, but was caught safely:
+System.NullReferenceException: Null method for iforgotmysocks.CaravanAdventures
+[Ref 934A3329]
+ at HarmonyLib.PatchProcessor.Patch () [0x0001d] in <abec11463bc04855a5322a0a868aeb22>:0 
+ at HarmonyLib.Harmony.Patch (System.Reflection.MethodBase original, HarmonyLib.HarmonyMethod prefix, HarmonyLib.HarmonyMethod postfix, HarmonyLib.HarmonyMethod transpiler, HarmonyLib.HarmonyMethod finalizer) [0x0002a] in <abec11463bc04855a5322a0a868aeb22>:0 
+ at CaravanAdventures.Patches.Compatibility.VFECoreFriendlyFactionDetectionPatch.ApplyPatches (System.Reflection.Assembly assembly) [0x0003a] in <4147f1910159449a926122195630a758>:0 
+ at CaravanAdventures.CompatibilityPatches+<>c.<ExecuteHarmonyCompatibilityPatches>b__5_0 () [0x0002a] in <4147f1910159449a926122195630a758>:0 
+ at CaravanAdventures.Helper+<>c__DisplayClass20_0.<RunSafely>b__0 () [0x00000] in <4147f1910159449a926122195630a758>:0 
+ at CaravanAdventures.Helper.RunSafely[T] (System.Func`1[TResult] action, System.Boolean suppressError, System.String failMessage, System.Boolean useDLog) [0x00000] in <4147f1910159449a926122195630a758>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CA patches complete. v1.7.1 (1.5)
+Mines 2.0 -> RecipeDef named MinesAutomated_RecipeDef_MineableSteel added to the mine.
+Mines 2.0 -> RecipeDef named MinesAutomated_RecipeDef_MineableSilver added to the mine.
+Mines 2.0 -> RecipeDef named MinesAutomated_RecipeDef_MineableGold added to the mine.
+Mines 2.0 -> RecipeDef named MinesAutomated_RecipeDef_MineableUranium added to the mine.
+Mines 2.0 -> RecipeDef named MinesAutomated_RecipeDef_MineablePlasteel added to the mine.
+Mines 2.0 -> RecipeDef named MinesAutomated_RecipeDef_MineableJade added to the mine.
+Mines 2.0 -> RecipeDef named MinesAutomated_RecipeDef_MineableComponentsIndustrial added to the mine.
+[RealRuins][System]: RealRuins started patching at 3/26/2025 3:41:34 PM
+[RealRuins][System]: RealRuins performing manual patching optional mods at 3/26/2025 3:41:34 PM
+[RealRuins][System]: SRTS not found, skipping...
+[RealRuins][System]: RealRuins finished patching at 3/26/2025 3:41:34 PM (76.9046 msec)
+LWM Update: stable(ish) 1.5.0.4
+LWM.DeepStorage: Making Shelf, ShelfSmall, Hopper into Deep Storage
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
+MVCF successfully applied 0 patches
+[de.hatti.rimworld.mod.qualitybuilder] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.ThingUtility.CheckAutoRebuildOnDestroyed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+OnLevelWasLoaded was found on ModInitializerComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed 
+(Filename:  Line: 369)
+
+CharacterEditor v1.5.10 initializing...
+updating labels for russian / русский...
+loading pawn slot content from file...
+character editor instance created
+checking editor settings...
+bodysizes genes are active
+CharacterEditor v1.5.10 ...done
+Curl error 42: Callback aborted
+ 
+(Filename:  Line: 853)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+[HugsLib] initializing DefensivePositions, RealRuins
+CE is trying to create default parameter lists ...
+creating default parameter list for genes...
+243 default entities for genes created
+creating default parameter list for objects...
+1298 default entities for objects created
+creating default parameter list for turrets...
+11 default entities for turrets created
+...lists created
+CE is trying to apply modified parameters...
+...done
+Starting patches: 1799 - 3/26/2025 3:43:46 PM
+Unloading 5 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 92 unused Assets to reduce memory usage. Loaded Objects now: 23733.
+Total: 516.349100 ms (FindLiveObjects: 3.322000 ms CreateObjectMapping: 2.605700 ms MarkObjects: 509.786000 ms  DeleteObjects: 0.633200 ms)
+
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 454 -> priority: 1 
-  Thread -> id: 1ee4 -> priority: 1 
+  Thread -> id: 177c -> priority: 1 
+  Thread -> id: 2b28 -> priority: 1 
